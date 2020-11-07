@@ -2,7 +2,7 @@
     <div>
         <van-cell-group>
         <van-field   v-model="phone"
-                label="手机号33"
+                label="手机号44"
                 placeholder="请输入手机号"
                 :error-message="mes"> 
         </van-field>
