@@ -7,7 +7,7 @@
                 :error-message="mes"> 
         </van-field>
         <van-field   v-model="phone1"
-                label="手机号2222"
+                label="手机号22220"
                 placeholder="请输入手机号"
                 :error-message="mes"> 
         </van-field>
